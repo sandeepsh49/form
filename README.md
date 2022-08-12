@@ -1,3 +1,1 @@
-Custom form for reuse.
-
-![form snapshot](/form.PNG)
+![form snapshot](/register/snapshot.PNG)
